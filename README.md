@@ -5,8 +5,6 @@
 ### 🚀 Generative AI Intern @ JSW | 🤖 Amazon ML Summer School 2026
 ### 🧠 Ex AI/ML Intern @ Cittaa Health | B.Tech CSE (Health Informatics) @ VIT Bhopal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Generative+AI+Engineer;Building+Enterprise+RAG+Applications;LLMs+%7C+NLP+%7C+Machine+Learning;Healthcare+AI+%7C+Enterprise+AI;Always+Learning+🚀" />
-
 </div>
 
 ---
@@ -107,24 +105,6 @@ Streamlit application for sentiment analysis with interactive visualizations.
 Practice repository covering interview questions and problem solving.
 
 🔗 https://github.com/itsshrstijha/DSA
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsshrstijha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshrstijha&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshrstijha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
