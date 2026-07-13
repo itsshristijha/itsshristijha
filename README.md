@@ -1,90 +1,155 @@
-# Hi there 👋, I'm Shristi Jha
+<div align="center">
 
-🚀 **Generative AI Intern @ JSW** | 🤖 Amazon ML Summer School 2026 | 🧠 Ex AI/ML Intern @ Cittaa Health
+# Hi 👋, I'm Shristi Jha
 
-I'm a **B.Tech Computer Science (Health Informatics)** student at **VIT Bhopal** passionate about building intelligent AI systems that solve real-world enterprise and healthcare challenges.
+### 🚀 Generative AI Intern @ JSW | 🤖 Amazon ML Summer School 2026
+### 🧠 Ex AI/ML Intern @ Cittaa Health | B.Tech CSE (Health Informatics) @ VIT Bhopal
 
-Currently, I'm working on **Enterprise Generative AI** applications at **JSW**, where I develop Proof of Concepts (POCs) using **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, and **Semantic Search** for SAP Ticket Resolution Assistance.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Generative+AI+Engineer;Building+Enterprise+RAG+Applications;LLMs+%7C+NLP+%7C+Machine+Learning;Healthcare+AI+%7C+Enterprise+AI;Always+Learning+🚀" />
 
-Previously, I worked at **Cittaa Health**, contributing to an AI-powered Emergency Case Escalation System using **Natural Language Processing**, **Transformers**, and **Machine Learning** for healthcare applications.
-
----
-
-## 💻 Tech Stack
-
-### Languages
-- Python
-- C++
-- SQL
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-
-### AI / Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Transformers
-
-### Frameworks & Libraries
-- FastAPI
-- Streamlit
-- Scikit-learn
-- Hugging Face
-- LangChain
-- Pandas
-- NumPy
-
-### Databases & Tools
-- PostgreSQL
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
+
+- 🔭 Currently working as a **Generative AI Intern @ JSW**
+- 🤖 Building **Enterprise RAG Applications** for SAP Ticket Resolution Assistance
+- 📚 Selected for **Amazon ML Summer School 2026**
+- 🏥 Ex AI/ML Intern @ **Cittaa Health**
+- 🧠 Passionate about **LLMs, RAG, NLP, Machine Learning & Enterprise AI**
+- 🌱 Currently learning **Agentic AI, Advanced RAG, Multi-Agent Systems**
+- 💬 Ask me about **Python, GenAI, Machine Learning, NLP, FastAPI**
+
+---
+
+# 💻 Tech Stack
+
+### 🚀 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,dart,mysql" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+<p>
+
+🧠 Large Language Models (LLMs)
+
+🔍 Retrieval-Augmented Generation (RAG)
+
+💬 Prompt Engineering
+
+🤗 Hugging Face Transformers
+
+🔗 LangChain
+
+📊 NLP
+
+🧩 Deep Learning
+
+</p>
+
+---
+
+### ⚡ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+---
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+</p>
+
+---
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Enterprise RAG Chatbot *(Ongoing)*
+Enterprise GenAI application for **SAP Ticket Resolution Assistance** using RAG, LLMs and Semantic Search.
+
+---
+
+### 🏥 Emergency Case Escalation System
+AI-powered healthcare platform for intelligent crisis assessment using NLP and Transformer models.
+
+---
 
 ### 📄 Sentiment Analysis Dashboard
-AI-powered sentiment analysis dashboard built with Streamlit.
+Streamlit application for sentiment analysis with interactive visualizations.
 
 🔗 https://github.com/itsshrstijha/sentiment-analysis-dashboard
 
-### 🤖 Enterprise RAG Chatbot *(Ongoing)*
-Developing enterprise Generative AI Proof of Concepts using RAG and LLMs for SAP Ticket Resolution Assistance.
-
-### 🏥 Emergency Case Escalation System
-AI-powered healthcare platform for intelligent mental health crisis assessment using NLP and Transformer-based models.
+---
 
 ### 📚 Data Structures & Algorithms
-Solutions to common coding interview and DSA problems.
+
+Practice repository covering interview questions and problem solving.
 
 🔗 https://github.com/itsshrstijha/DSA
 
 ---
 
-## 🌱 Currently Exploring
+# 📈 GitHub Analytics
 
-- Agentic AI
-- Enterprise AI
-- Advanced RAG
-- LLM Fine-tuning
-- AI System Design
-- Multi-Agent Systems
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsshrstijha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshrstijha&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshrstijha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 🌐 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shristi-jha-vit/
-- 💻 GitHub: https://github.com/itsshrstijha
+<p align="left">
+<a href="https://www.linkedin.com/in/shristi-jha-vit/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/itsshrstijha" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:shristijha538@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 ---
 
-⭐ *I enjoy building AI systems that bridge research and real-world applications, with a focus on Enterprise AI, Healthcare AI, and Generative AI.*
+<div align="center">
+
+### 💙 *"Building AI that creates real-world impact."*
+
+![](https://komarev.com/ghpvc/?username=itsshrstijha&style=for-the-badge&color=blue)
+
+</div>
