@@ -26,7 +26,7 @@
 ### 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,dart,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
 </p>
 
 <p>
@@ -60,7 +60,7 @@
 ### ⚡ Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,sql" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### ☁️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=github,vscode,linux,postman" />
 </p>
 
 ---
