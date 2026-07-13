@@ -26,7 +26,7 @@
 ### 🚀 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,sql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ---
